@@ -27,7 +27,7 @@ In this walkthrough, we will create a virtual machine in the Azure portal, conne
     | Size | **Standard D2s v3**|
     | Administrator account username | **azureuser** |
     | Administrator account password (type in carefully!) | **Pa$$w0rd1234**|
-    | Inbound port rules - | **Allow select ports **|
+    | Inbound port rules | **Allow select ports**|
     | Select inbound ports | **RDP (3389)** and **HTTP (80)**| 
 
 5. Switch to the Networking tab to ensure **HTTP (80) and RDP (3389)** are selected in section **Select inbound ports**.
